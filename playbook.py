@@ -32,7 +32,6 @@ class Node_playset:
 class Node_Info:
     def __init__(self, name):
         self.playName = name
-        self.playImage = None
 
 """
 The Play_Structure Class is the wrapper that 
